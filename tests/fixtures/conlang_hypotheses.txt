@@ -1,0 +1,8 @@
+# one hypothesis per line
+gloss P206-P212-P209-P207 = total near numbers
+gloss P201-P200-P215-P218-P205 = sheep near numbers
+role P223-P223-P223 number
+role P200-P210 function_word
+role P206-P212-P209-P207 unit_end
+affix -P208-P200 = accusative
+gloss P200-P210 = to near line_start
